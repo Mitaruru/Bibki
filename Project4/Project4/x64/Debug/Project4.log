@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\Project4\Project4\Source.cpp(7,13): warning C4305: инициализация: усечение из "double" в "float"
+  Source1.cpp
+  Создание кода...
+  Project4.vcxproj -> C:\Users\User\source\repos\Project4\x64\Debug\Project4.exe
