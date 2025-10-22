@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polik7", "Polik7.vcxproj", "{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Debug|x64.ActiveCfg = Debug|x64
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Debug|x64.Build.0 = Debug|x64
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Debug|x86.Build.0 = Debug|Win32
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Release|x64.ActiveCfg = Release|x64
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Release|x64.Build.0 = Release|x64
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Release|x86.ActiveCfg = Release|Win32
+		{4A99BC5A-06E0-4BB7-9874-28C75F157FAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF895D6E-20BF-442E-9D51-8CC467E1430A}
+	EndGlobalSection
+EndGlobal
