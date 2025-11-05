@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\polik10\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  polik10.vcxproj -> C:\Users\User\source\repos\polik10\x64\Debug\polik10.exe
